@@ -8,3 +8,7 @@
 KRISHSANGWAN/KRISHSANGWAN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+# Myself
+
+I am a 3rd year student and just trying something in the github
