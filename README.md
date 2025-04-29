@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @KRISHSANGWAN
-- 👀 I’m interested in Blockchain and Solidity Development
-- 🌱 I’m currently learning Hyperledger and Frond end
+- 👀 I’m interested in DSA and MERN Stack Development
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me krishsangwan@gmail.com
 
